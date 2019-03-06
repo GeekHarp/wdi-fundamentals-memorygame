@@ -48,6 +48,9 @@ h2 {
 img {
 	margin: 40px 8px;
 }
+#reset {
+	float: right;
+}
 
 footer {
 	text-transform: uppercase;
